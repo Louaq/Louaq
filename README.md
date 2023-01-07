@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="https://img-1251747095.file.myqcloud.com/img/20200619141328.png">
+<img align="right" width="300" height="300" src="https://yangyang666.oss-cn-chengdu.aliyuncs.com/photos/1f06357ba7ccbbb59cf04bc831a651b7.png">
 
 
 # Hi, I'm [Yang!](https://soulnull.com/) 👋.
