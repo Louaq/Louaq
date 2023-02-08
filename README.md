@@ -15,12 +15,11 @@
 
 
 ## Reach me 
-[![Github](https://img.shields.io/github/followers/ABF7470?label=Github&style=social)](https://github.com/ABF7470)
+![image](https://img.shields.io/github/license/ABF7470/ChatRoom) 
 
 ### Interesting stats
 
 ![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=ABF7470&show_icons=true)
 
 Thanks for stopping by! 😁
-
 
