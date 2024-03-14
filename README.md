@@ -11,7 +11,7 @@
 
 - 🌐  湖北 武汉
 - 👽  like 开源
-- 🍓  like 
+- 🍓  like python
 
 
 ## Reach me 
@@ -21,5 +21,4 @@
 
 ![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=ABF7470&show_icons=true)
 
-Thanks for stopping by! 😁
 
