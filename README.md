@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="https://s21.ax1x.com/2024/04/26/pkPJAjU.png">
+<img align="right" width="300" height="300" src="https://s21.ax1x.com/2024/04/26/pkPJVuF.jpg">
 
 
 # Hi, I'm [Yang!](https://soulnull.com/) 👋.
