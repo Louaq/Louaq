@@ -1,17 +1,17 @@
 <img align="right" width="300" height="300" src="https://s21.ax1x.com/2024/04/26/pkPJuNR.png">
 
 
-# Hi, I'm [Yang!](https://soulnull.com/) 👋.
+# Hi, I'm [Yang Yang!](https://soulnull.com/) 👋.
 
-后端 | 学生 💻
+ 人工智能 | 计科专硕 💻
 
 ## About me 
 
 🧑🏻‍💻 开源| 👽 极客 | 💻 Linux
 
 - 🌐  湖北 武汉
-- 👽  like 开源
-- 🍓  like python
+- 👽  民族大道
+- 🍓  双子塔
 
 
 ## Reach me 
