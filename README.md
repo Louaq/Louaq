@@ -7,12 +7,12 @@
   
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   
-:heart: 计科专硕 | :black_heart: 民族大道 | :blue_heart: 双子塔
+:heart: Postgraduate students in computer technology | :black_heart: Wuhan, China | :blue_heart: Twin Towers
   
 I am a student major in network engineering at South-Central Minzu University, I love Computer Vision and Machine Learning. 
 
 - 🔭 I'm currently in graduate school.
-- 🌱 I’m currently learning Computer Vision | LLM | NLP 
+- 🌱 I’m currently learning Computer Vision | LLM | NLP | Big Data
 - 👯 I’m looking to collaborate on Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
