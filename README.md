@@ -9,7 +9,7 @@
   
 :heart: Postgraduate students in computer technology | :black_heart: Wuhan, China | :blue_heart: Twin Towers
   
-I am a student major in network engineering at South-Central Minzu University, I love Computer Vision and Machine Learning. 
+I am a postgraduate student major in computer technology at South-Central Minzu University, I love Computer Vision and Machine Learning. 
 
 - 🔭 I'm currently in graduate school.
 - 🌱 I’m currently learning Computer Vision | LLM | NLP | Big Data
