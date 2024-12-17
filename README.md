@@ -7,7 +7,7 @@
   
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   
-:heart: Postgraduate students in computer technology | :black_heart: Wuhan, China | :blue_heart: Twin Towers
+:heart: Students in computer technology | :black_heart: Wuhan, China | :blue_heart: Twin Towers
   
 I am a postgraduate student major in computer technology at South-Central Minzu University, I love Computer Vision and Machine Learning. 
 
