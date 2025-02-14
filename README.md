@@ -13,8 +13,8 @@ I'm Louaq.
 </p>
 <p align='center'>For enquiries, reach out <a href="yang_syy@qq.com">yang_syy@qq.com</a> or over on <a href="https://shokop.netlify.app/">Website</a>.</p>
 
+<div align="center">
+<img src="https://img.shields.io/badge/vue-like-green">
+</div>
+
 <h1 align='center'><i>Stay here!</i></h1>
-
-
-
-
