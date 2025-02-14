@@ -11,7 +11,7 @@
 <p align='center'>
 I'm Louaq.
 </p>
-<p align='center'>For enquiries, reach out @ <a href="yang_syy@qq.com">yang_syy@qq.com</a> or over on <a href="https://shokop.netlify.app/">Website</a>.</p>
+<p align='center'>For enquiries, reach out <a href="yang_syy@qq.com">yang_syy@qq.com</a> or over on <a href="https://shokop.netlify.app/">Website</a>.</p>
 
 <h1 align='center'><i>Stay here!</i></h1>
 
