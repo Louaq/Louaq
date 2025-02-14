@@ -16,7 +16,5 @@ I'm Louaq.
 <img alt="NPM License" src="https://img.shields.io/npm/l/%40algolia%2Fclient-search">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/Louaq/shokax">
 </p>
-
-
-
+<!-- SHIELD GROUP -->
 <h1 align='center'><i>Stay here!</i></h1>
