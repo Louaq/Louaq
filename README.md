@@ -5,7 +5,7 @@
   <br>
 </p>
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Louaq&bg_color=ffffff&color=30bb32&line=19ae61&point=345eda&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
