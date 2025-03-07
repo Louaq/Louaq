@@ -7,7 +7,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Louaq&bg_color=ffffff&color=30bb32&line=19ae61&point=345eda&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph#pic_center)
 
-<div align=center><img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"></div>
+<div align=center><img src="https://github.com/Louaq/Louaq/blob/output/github-contribution-grid-snake.svg"></div>
 
 
 
