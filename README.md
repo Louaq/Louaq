@@ -21,7 +21,7 @@
 <p align='center'>
 I'm Louaq.
 </p>
-<p align='center'>For enquiries, reach out <a href="yang_syy@qq.com">yang_syy@qq.com</a> or over on <a href="https://shokop.netlify.app/">Website</a>.</p>
+<p align='center'>For enquiries, reach out <a href="yang_syy@qq.com">yang_syy@qq.com</a> or over on <a href="https://shokau.netlify.app/">Website</a>.</p>
 <p align="center">
 <img alt="NPM License" src="https://img.shields.io/npm/l/%40algolia%2Fclient-search">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/Louaq/shokax">
