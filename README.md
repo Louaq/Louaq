@@ -34,4 +34,3 @@ I'm Louaq.
 </p>
 <!-- SHIELD GROUP -->
 <h1 align='center'><i>Stay here!</i></h1>
-
