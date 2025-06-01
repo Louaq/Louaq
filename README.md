@@ -29,7 +29,7 @@ I'm Louaq.
 <p align='center'>For enquiries, reach out <a href="yang_syy@qq.com">yang_syy@qq.com</a>
 <p align="center">
 <img alt="NPM License" src="https://img.shields.io/npm/l/%40algolia%2Fclient-search">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/Louaq/shokax">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/Louaq/louaq.github.io">
 </p>
 <!-- SHIELD GROUP -->
 <h1 align='center'><i>Stay here!</i></h1>
