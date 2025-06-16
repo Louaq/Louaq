@@ -13,7 +13,6 @@
 I'm Louaq.
 <p align='center'>For enquiries, reach out <a href="yang_syy@qq.com">yang_syy@qq.com</a>
 <p align="center">
-<img alt="NPM License" src="https://img.shields.io/npm/l/%40algolia%2Fclient-search">
 <img alt="Python Badge" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white">
 <img alt="Python Badge" src="https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Pycharm&logoColor=white">
 <img alt="Python Badge" src="https://img.shields.io/badge/-C-66CC66?style=flat&logo=C&logoColor=A8B9CC">
@@ -25,8 +24,12 @@ I'm Louaq.
 <img alt="colab" src="https://colab.research.google.com/assets/colab-badge.svg">
 <img alt="colab" src="https://mybinder.org/badge_logo.svg">
 <img alt="colab" src="https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg">
-<img alt="colab" src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg">
 <img alt="colab" src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label">
+<img alt="colab" src="https://img.shields.io/badge/License-GPL-blue.svg">
+<img alt="NPM License" src="https://img.shields.io/npm/l/%40algolia%2Fclient-search">
+<img alt="NPM License" src="https://img.shields.io/badge/License-CC--0-blue.svg">
+
+
 
   
 <!-- SHIELD GROUP -->
