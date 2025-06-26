@@ -6,8 +6,6 @@
 </p>
 <div align='center'><img src="https://github.com/Louaq/Louaq/blob/output/github-contribution-grid-snake.svg"></div>
 <!--   my-skils -->
-
-
 <h1 align='center'> Hi there! :wave:</h1>
 <p align='center'>
 I'm Louaq.
