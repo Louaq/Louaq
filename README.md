@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Louaq&theme=vue&show_icons=true&hide_border=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=Louaq&theme=Gradient&show_icons=true&hide_border=true&count_private=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louaq&theme=vue&show_icons=true&hide_border=true&layout=compact">
   <br>
   <br>
@@ -27,9 +27,9 @@ I'm Louaq.
 <img alt="colab" src="https://img.shields.io/badge/License-GPL-blue.svg">
 <img alt="NPM License" src="https://img.shields.io/npm/l/%40algolia%2Fclient-search">
 <img alt="NPM License" src="https://img.shields.io/badge/License-CC--0-blue.svg">
-
-
-
   
 <!-- SHIELD GROUP -->
 <h1 align='center'><i>Stay here!</i></h1>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Louaq&repo=TexStudio)](https://github.com/Louaq/TexStudio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Louaq&repo=HSFPN-Det)](https://github.com/Louaq/HSFPN-Det)
