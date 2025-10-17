@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-louaq.vercel.app/api?username=Louaq&theme=Gradient&show_icons=true&hide_border=true&count_private=true">
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louaq&theme=vue&show_icons=true&hide_border=true&layout=compact">
   <br>
   <br>
