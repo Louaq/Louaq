@@ -1,9 +1,9 @@
-<p align="center">
+<!-- <p align="center">
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louaq&theme=vue&show_icons=true&hide_border=true&layout=compact">
   <br>
   <br>
-</p>
+</p> -->
 <div align='center'><img src="https://github.com/Louaq/Louaq/blob/output/github-contribution-grid-snake.svg"></div>
 <!--   my-skils -->
 <h1 align='center'><i> Hi there! :wave:</i></h1>
