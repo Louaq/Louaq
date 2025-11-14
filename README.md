@@ -23,4 +23,3 @@ I'm Louaq. For enquiries, reach out <a href="yang_syy@qq.com">yang_syy@qq.com</a
 <img alt="Python Badge" src="https://img.shields.io/badge/-OpenCV-444444?style=flat&logo=OpenCV">
 <img alt="colab" src="https://colab.research.google.com/assets/colab-badge.svg">
 <img alt="colab" src="https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg">
-<img alt="colab" src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label">
