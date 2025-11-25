@@ -1,7 +1,5 @@
 <p align="center">
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Louaq&layout=compact&langs_count=8&card_width=320" />
-</a>
+<img height=500 align="center" src="profile-3d-contrib/profile-south-season-animate.svg" />
 </p> 
 <div align='center'><img src="https://github.com/Louaq/Louaq/blob/output/github-contribution-grid-snake.svg"></div>
 <!--   my-skils -->
