@@ -8,7 +8,7 @@
 </p> 
 <div align='center'><img src="https://github.com/Louaq/Louaq/blob/output/github-contribution-grid-snake.svg"></div>
 
-- 🔭 I'm currently working on **South-central Minzu University**
+- 🔭 I'm currently a MS student on **South-central Minzu University**
 
 - 🌱 I'm currently learning **Multimodal Medical Image segmentation, Compouter Vision, Medical Image Processing**
 
