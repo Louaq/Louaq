@@ -7,7 +7,7 @@
 </p> 
 
 <p align="center">
-<img height=500 align="center" src="profile-3d-contrib/profile-south-season-animate.svg" />
+<img height=500 align="center" src="profile-3d-contrib/profile-gitblock.svg" />
 </p> 
 <div align='center'><img src="https://github.com/Louaq/Louaq/blob/output/github-contribution-grid-snake.svg"></div>
 
