@@ -1,11 +1,12 @@
-
-
 # Hi 👋, I'm louaq
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Stay+Hungry;+Stay+Foolish;&center=false&width=1000&height=50&size=32&font=Righteous"/>
 </p> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Louaq" alt="Louaq" /></a> </p>
+<p align="center">
+<img height=500 align="center" src="profile-3d-contrib/profile-south-season-animate.svg" />
+</p> 
+<div align='center'><img src="https://github.com/Louaq/Louaq/blob/output/github-contribution-grid-snake.svg"></div>
 
 - 🔭 I'm currently working on **South-central Minzu University**
 
