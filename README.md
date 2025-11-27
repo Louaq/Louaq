@@ -6,9 +6,9 @@
   <img src="https://github-immortality.vercel.app/api?username=Louaq" />
 </p> 
 
-<p align="center">
+<!-- <p align="center">
 <img height=500 align="center" src="profile-3d-contrib/profile-gitblock.svg" />
-</p> 
+</p>  -->
 <div align='center'><img src="https://github.com/Louaq/Louaq/blob/output/github-contribution-grid-snake.svg"></div>
 
 - 🔭 I'm currently a MS student on **South-central Minzu University**
