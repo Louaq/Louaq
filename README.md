@@ -15,7 +15,7 @@
 
 - 🌱 I'm currently learning **Multimodal Medical Image segmentation, Compouter Vision, Medical Image Processing**
 
-- 🤝 I'm looking for help with **learning system design**
+- 🤝 I'm looking for help with **Brain Tumor Dataset**
 
 - 💬 Ask me about **AI, Compouter Vision, Medical Image Processing**
 
