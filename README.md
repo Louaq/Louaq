@@ -22,9 +22,9 @@
 
 - ⚡ Fun fact **I think i am funny**
 
-- 👨‍💻 All of my projects are available at **[https://louaq.github.io](https://louaq.github.io)**
+- 👨‍💻 All of my projects are available at **[https://louaq.io](https://louaq.io)**
 
-- 📝 I regularly write articles on **[https://louaq.github.io](https://louaq.github.io)**
+- 📝 I regularly write articles on **[https://louaq.io](https://louaq.io)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
