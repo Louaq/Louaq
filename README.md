@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **AI, Compouter Vision, Medical Image Processing**
 
-- 📫 How to reach me **yang_syy@qq.com**
+- 📫 How to reach me **astroal@qq.com**
 
 - ⚡ Fun fact **I think i am funny**
 
