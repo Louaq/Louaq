@@ -3,8 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Stay+Hungry;+Stay+Foolish;&center=false&width=1000&height=50&size=32&font=Righteous"/>
 </p> 
 <p align="center">
-  <img src="https://github-immortality.vercel.app/api?username=Louaq" />
-</p> 
+<a href="https://github.com/louaq">
+  <img src="https://github-immortality.vercel.app/api?username=louaq" alt="louaq's GitHub stats" />
+</a>
+</p>
 <!-- <p align="center">
 <img height=500 align="center" src="profile-3d-contrib/profile-gitblock.svg" />
 </p>  -->
