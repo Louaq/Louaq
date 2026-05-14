@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **I think i am funny**
 
-- 📝 I regularly write articles on **[https://louaq.io](https://louaq.io)**
+- 📝 I regularly write articles on **[https://louaq.com](https://louaq.com)**
 
 </p>
 
