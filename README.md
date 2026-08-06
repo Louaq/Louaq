@@ -12,7 +12,7 @@
 </p>  -->
 <div align='center'><img src="https://github.com/Louaq/Louaq/blob/output/github-contribution-grid-snake.svg"></div>
 
-- 🔭 I'm currently a MS student on **South-Central Minzu University**
+- 🔭 I'm currently a **MS student**
 
 - 🌱 I'm currently learning **Multimodal Medical Image segmentation, Compouter Vision, Medical Image Processing**
 
@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **AI, Compouter Vision, Medical Image Processing**
 
-- 📫 How to reach me **astroal@qq.com**
+- 📫 How to reach me **louaqo@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
 
