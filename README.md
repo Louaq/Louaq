@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **I think i am funny**
 
-- 📝 I regularly write articles on **[https://louaq.com](https://louaq.com)**
+- 📝 I regularly write articles on **[https://louaq.io](https://louaq.io)**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
