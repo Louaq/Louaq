@@ -22,8 +22,6 @@
 
 - 📫 How to reach me **louaqo@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
-
 - 📝 I regularly write articles on **[https://louaq.io](https://louaq.io)**
 </p>
 
