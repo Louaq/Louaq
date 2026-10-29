@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="160" viewBox="0 0 1440 160" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Flowing blue and teal footer waves</title>
+  <defs>
+    <linearGradient id="wave" x1="0" y1="80" x2="1440" y2="160" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2DD4BF"/><stop offset="0.5" stop-color="#38BDF8"/><stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#wave)" opacity=".15" d="M0 60C240 120 480 0 720 60S1200 120 1440 60V160H0Z">
+    <animate attributeName="d" dur="16s" repeatCount="indefinite" values="M0 60C240 120 480 0 720 60S1200 120 1440 60V160H0Z;M0 80C240 10 480 130 720 80S1200 10 1440 80V160H0Z;M0 60C240 120 480 0 720 60S1200 120 1440 60V160H0Z"/>
+  </path>
+  <path fill="url(#wave)" opacity=".3" d="M0 95C240 25 480 155 720 95S1200 25 1440 95V160H0Z">
+    <animate attributeName="d" dur="12s" repeatCount="indefinite" values="M0 95C240 25 480 155 720 95S1200 25 1440 95V160H0Z;M0 85C240 150 480 25 720 85S1200 150 1440 85V160H0Z;M0 95C240 25 480 155 720 95S1200 25 1440 95V160H0Z"/>
+  </path>
+  <path fill="url(#wave)" opacity=".65" d="M0 125C240 175 480 75 720 125S1200 175 1440 125V160H0Z">
+    <animate attributeName="d" dur="18s" repeatCount="indefinite" values="M0 125C240 175 480 75 720 125S1200 175 1440 125V160H0Z;M0 115C240 65 480 165 720 115S1200 65 1440 115V160H0Z;M0 125C240 175 480 75 720 125S1200 175 1440 125V160H0Z"/>
+  </path>
+</svg>
