@@ -5,9 +5,9 @@
 I build tools for technical writing and reading, working with **TypeScript, Astro, and Svelte** on the web and **Python and PyTorch** for image analysis. My research interests include multimodal learning and medical image segmentation.
 
 <p>
-  <a href="https://louaq.io"><img src="https://img.shields.io/badge/Blog-louaq.io-2563EB?style=flat-square&amp;logo=rss&amp;logoColor=white" height="20" alt="Blog: louaq.io" /></a>
-  <a href="https://github.com/Louaq?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&amp;logo=github&amp;logoColor=white" height="20" alt="Browse my GitHub repositories" /></a>
-  <a href="mailto:louaqo@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-0F766E?style=flat-square&amp;logo=gmail&amp;logoColor=white" height="20" alt="Email: louaqo@gmail.com" /></a>
+  <a href="https://louaq.io"><img src="https://img.shields.io/badge/Blog-louaq.io-2563EB?style=flat&amp;logo=rss&amp;logoColor=white" height="20" alt="Blog: louaq.io" /></a>
+  <a href="https://github.com/Louaq?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat&amp;logo=github&amp;logoColor=white" height="20" alt="Browse my GitHub repo" /></a>
+  <a href="mailto:louaqo@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-0F766E?style=flat&amp;logo=gmail&amp;logoColor=white" height="20" alt="Email: louaqo@gmail.com" /></a>
 </p>
 
 ## 🚀 Featured projects
@@ -20,10 +20,10 @@ I build tools for technical writing and reading, working with **TypeScript, Astr
     </td>
     <td width="45%" valign="top">
       <p>
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&amp;logo=astro&amp;logoColor=white" height="20" alt="Astro" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&amp;logo=svelte&amp;logoColor=white" height="20" alt="Svelte" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" height="20" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F766E?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" height="20" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&amp;logo=astro&amp;logoColor=white" height="20" alt="Astro" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&amp;logo=svelte&amp;logoColor=white" height="20" alt="Svelte" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logo=typescript&amp;logoColor=white" height="20" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F766E?style=flat&amp;logo=tailwindcss&amp;logoColor=white" height="20" alt="Tailwind CSS" />
       </p>
       <p><a href="https://github.com/Louaq/Folumio">Code</a> &middot; <a href="https://louaq.io">Live site</a></p>
     </td>
@@ -35,10 +35,10 @@ I build tools for technical writing and reading, working with **TypeScript, Astr
     </td>
     <td width="45%" valign="top">
       <p>
-  <img src="https://img.shields.io/badge/Next.js-181717?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" height="20" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Payload%20CMS-181717?style=flat-square&amp;logo=payloadcms&amp;logoColor=white" height="20" alt="Payload CMS" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=white" height="20" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-0F766E?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" height="20" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Next.js-BC52EE?style=flat&amp;logo=nextdotjs&amp;logoColor=white" height="20" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Payload%20CMS-FF3E00?style=flat&amp;logo=payloadcms&amp;logoColor=white" height="20" alt="Payload CMS" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&amp;logo=sqlite&amp;logoColor=white" height="20" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-0F766E?style=flat&amp;logo=tailwindcss&amp;logoColor=white" height="20" alt="Tailwind CSS" />
       </p>
       <p><a href="https://github.com/Louaq/sts-status">Code</a></p>
     </td>
@@ -50,9 +50,9 @@ I build tools for technical writing and reading, working with **TypeScript, Astr
     </td>
     <td width="45%" valign="top">
       <p>
-  <img src="https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&amp;logo=electron&amp;logoColor=white" height="20" alt="Electron" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=white" height="20" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" height="20" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Electron-BC52EE?style=flat&amp;logo=electron&amp;logoColor=white" height="20" alt="Electron" />
+  <img src="https://img.shields.io/badge/React-FF3E00?style=flat&amp;logo=react&amp;logoColor=white" height="20" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logo=typescript&amp;logoColor=white" height="20" alt="TypeScript" />
       </p>
       <p><a href="https://github.com/Louaq/TexStudio">Code</a> &middot; <a href="https://github.com/Louaq/TexStudio/releases">Downloads</a></p>
     </td>
